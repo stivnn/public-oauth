@@ -1,4 +1,4 @@
-# Hypixel OAuth
+# Acerate OAuth
 
 ## Installation
 
